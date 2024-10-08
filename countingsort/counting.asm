@@ -6,7 +6,7 @@
 
 .data
     arr    dd 3, 1, 2, 5, 4  ; Define the array with 5 elements, 32-bit (DWORD)
-    count  dd 6 dup(0)       ; Counter array for counting occurrences
+    count  dd 5 dup(0)       ; Counter array for counting occurrences
     sorted dd 6 dup(0)       ; Array to store sorted elements
 
 .code
