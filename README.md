@@ -3,6 +3,11 @@ Counting Sort Algorithm Assembly Code on 8086
 
 # What should be the expected output
 - Visual Studio 2022
-https://imgur.com/a/a0MTbzz
+![alt text](https://github.com/cheseuca/Counting-Sort-Algorithm-8086/blob/main/Screenshot%202024-10-08%20190217.png)
 - DOSBox
-https://imgur.com/a/tOEXzrt
+![alt text](https://github.com/cheseuca/Counting-Sort-Algorithm-8086/blob/main/Screenshot%202024-10-08%20185701.png)
+
+Note:
+- Yellow: Unsorted Array
+- Green: Counter Array
+- Blue: Sorted Array
