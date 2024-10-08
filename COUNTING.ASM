@@ -6,7 +6,7 @@
 
 .data
 arr     dw 3, 1, 2, 5, 4   ; Define the array with 5 elements, 16-bit (WORD)
-count   dw 6 dup(0)        ; Counter array for counting occurrences 
+count   dw 5 dup(0)        ; Counter array for counting occurrences 
 sorted  dw 6 dup(0)        ; Array to store sorted elements (Offset to 1 so the 1st value will be stored in the memory)
 
 .code
